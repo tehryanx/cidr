@@ -2,7 +2,8 @@
 Print a list of ip addresses given a cidr range. 
 Requires python3
 
-```usage: cidr.py [-h] [-d | -l] network
+```
+usage: cidr.py [-h] [-d | -l] network
 
 positional arguments:
   network        Supply a network range in CIDR format: 10.0.0.0/24
